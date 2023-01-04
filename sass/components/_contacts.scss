@@ -1,0 +1,16 @@
+.contacts {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.contacts__link {
+    display: flex;
+    align-items: center;
+    padding: 32px 0;
+    color: getColor('primary-text');
+}
+
+.icon-contacts {
+    margin-right: 10px;
+}
