@@ -1,8 +1,26 @@
 @import './utils/vars';
 @import './components/_global-styles.scss';
+
 @import './components/header';
 @import './components/logo';
 @import './components/navigation';
 @import './components/contacts';
 
-@import './components/hero'
+@import './components/main-studio';
+@import './components/hero';
+@import './components/feature-section';
+@import './components/work-list';
+@import './components/worker-list';
+@import './components/clients';
+
+@import './components/footer';
+@import './components/footer-contacts';
+@import './components/footer-sn';
+@import './components/mailing';
+
+@import './components/modal';
+@import './components/form';
+
+@import './components/main-portfolio';
+@import './components/filter-project';
+@import './components/projects';
